@@ -13,7 +13,8 @@ Voici nos 4 modélisations de la bibliothèque.
     
 * [Modèle 3:](https://github.com/are2019-l0-a1a2/Remplissage-d-une-biblioth-que/blob/master/Mod%C3%A8le3.ipynb)
     Nous étudions l'évolution du remplissage de la bibliothèque en fonction du temps et des phases.
-    
+* [Modèle 5]https://github.com/are2019-l0-a1a2/Remplissage_bibliotheque/blob/master/Mod%C3%A8le%205(Am%C3%A9lioration%20mod%C3%A8le%203).ipynb
+    Amélioration modèle 3
 ## Remplissage géographique
 * [Modèle 4:](https://github.com/are2019-l0-a1a2/Remplissage-d-une-biblioth-que/blob/master/Mod%C3%A8le%204%20Animation.ipynb)
     Nous étudions évolution du remplissage de la bibliothèque du [modèle 3](https://github.com/are2019-l0-a1a2/Remplissage-d-une-biblioth-que/blob/master/Mod%C3%A8le3.ipynb) de manière géographique.
